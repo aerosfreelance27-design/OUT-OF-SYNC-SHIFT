@@ -9,6 +9,18 @@ public class Shifting : MonoBehaviour
     public int starterBPM = 120; // Starting BPM value
 
     private GameInput inputActions;
+    void Awake()
+    {
+        inputActions = new GameInput();
+    }
+    void OnEnable()
+    {
+        inputActions.Enable();
+    }
+    void OnDisable()
+    {
+        inputActions.Disable();
+    }   
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {

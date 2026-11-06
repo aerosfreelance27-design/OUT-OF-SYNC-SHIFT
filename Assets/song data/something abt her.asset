@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ab23e6903e1e34d8f9eaa6e6eeb5ddd3, type: 3}
   m_Name: something abt her
   m_EditorClassIdentifier: Assembly-CSharp::Song
-  song: {fileID: 0}
-  bpm: 0
+  song: {fileID: 8300000, guid: d16405d06495b4aa18c40904cf68feb1, type: 3}
+  bpm: 85

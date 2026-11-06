@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ab23e6903e1e34d8f9eaa6e6eeb5ddd3, type: 3}
   m_Name: coveredinblood
   m_EditorClassIdentifier: Assembly-CSharp::Song
-  song: {fileID: 0}
-  bpm: 0
+  song: {fileID: 8300000, guid: fa0413c1226fd449ca00f4f6e2091dbe, type: 3}
+  bpm: 146
